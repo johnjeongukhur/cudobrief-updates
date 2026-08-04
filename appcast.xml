@@ -1,8 +1,29 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Cudobrief</title>
+        <item>
+            <title>0.2.4</title>
+            <pubDate>Tue, 04 Aug 2026 17:29:05 +0900</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Cudobrief 0.2.4
+
+- 새 버전을 발견하면 앱 안에서 업데이트 내용을 확인하고 바로 설치할 수 있도록 개선함
+- 업데이트를 취소해도 사이드바에서 다시 진행할 수 있도록 업데이트 상태를 유지함
+- 다운로드와 검증이 끝나면 앱을 자동으로 교체하고 재실행하도록 정리함
+- 업데이트 후 기존 기록 상태를 복원해 업무 기록을 자연스럽게 이어가도록 개선함
+]]></description>
+            <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief-0.2.4-7.dmg" length="13235370" type="application/octet-stream" sparkle:edSignature="NvY6AQsPYBnpKHkC2MuKQWoY0VkybsIxfHHYb7tRX5710T1U1LF8Wx+AcJD4uiAYITbJhxQvIJatEkA5fN3DDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief7-6.delta" sparkle:deltaFrom="6" length="1158037" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XUnngM2QEtC/lvhN45vjnPVs2AJMrPeBZOC/KjkA5RGpU3doA/bwuSaKKKUjw3lQ5k2dlbE/+Sn6GOgznw0+CA=="/>
+            </sparkle:deltas>
+        </item>
         <item>
             <title>0.2.3</title>
             <pubDate>Tue, 04 Aug 2026 15:50:06 +0900</pubDate>
@@ -16,10 +37,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 - 새 버전 자동 확인과 자동 적용 설정이 실제 업데이트 상태와 일치하도록 안정화함
 - 업무 현황에서 기본 시간 계산 안내가 불필요하게 노출되지 않도록 정리함
 ]]></description>
-            <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief-0.2.3-6.dmg" length="13121378" type="application/octet-stream" sparkle:edSignature="B0cNXc5D39wYr9csc/4iWFp0URLNr558P0u9WNGnFoKnISvA69SFhBgxBkemaBx0uuUrz0+jKNrfVLK/dM4aBQ=="></enclosure>
+            <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief-0.2.3-6.dmg" length="13121378" type="application/octet-stream" sparkle:edSignature="B0cNXc5D39wYr9csc/4iWFp0URLNr558P0u9WNGnFoKnISvA69SFhBgxBkemaBx0uuUrz0+jKNrfVLK/dM4aBQ=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: PUTd2W4QbPUkJ3pnUMw9mD8mXQkS0KJZfFRZHu/eWPsDIXWbQaH0+ZZ7XVfAra6W9YOkefNqk/edEZz+N6EJBA==
-length: 1577
+</rss>
+<!-- sparkle-signatures:
+edSignature: 44+WMY3Ldu9D0WfY0iCKvmCt44gcy6szEMfzU0t66o8dX2Q7wncEfMejQ7jjmUsbfTj5XSmieXAILIcqdN18Bg==
+length: 3288
 -->
