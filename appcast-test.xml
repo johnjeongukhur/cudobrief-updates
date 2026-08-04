@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Cudobrief</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 04 Aug 2026 13:54:33 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Cudobrief 0.2.0
+
+- 앱 안에서 새 버전을 확인하고 설치할 수 있는 자동 업데이트 경로를 추가함
+- 업데이트 파일의 Developer ID, Apple 공증, Sparkle EdDSA 서명을 검증함
+- 설정에서 현재 버전과 자동 확인 상태를 확인할 수 있도록 정리함
+]]></description>
+            <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates-test/Cudobrief-0.2.0-2.dmg" length="13091618" type="application/octet-stream" sparkle:edSignature="ZxhEUWxHxk1IOrVfYE2A45UPTzdX2Jk9vdGxMyIfLngDmAdOaGmJYSHHCBVkRkdNhnWK6SHrvV5JAWSh4wP7AQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: fcS1P30c2HISMhf0dpEC32BKMdwbXVdtx9NBEcb5yX4MZ4D6zmJykd34Dg+/um9M6WDtlYq7TVr5PLJQyOX/Bg==
+length: 1524
+-->
