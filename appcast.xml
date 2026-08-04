@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Cudobrief</title>
         <item>
+            <title>0.2.5</title>
+            <pubDate>Tue, 04 Aug 2026 17:51:50 +0900</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Cudobrief 0.2.5
+
+- 앱 안에서 업데이트를 발견하고 다운로드한 뒤 자동으로 교체·재실행하는 전체 흐름을 실제 배포 환경에서 검증하기 위한 릴리즈
+- 기능과 데이터 처리 방식은 0.2.4와 동일함
+]]></description>
+            <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief-0.2.5-8.dmg" length="13232766" type="application/octet-stream" sparkle:edSignature="nsSGGq9uUxkyWdhQYDuQWJ9sQVmG+PAWOI3+6qOBOS4qcRNgdSclB5Ve9el1ZS+wn+gCbWvNw9my7ChyP4ydDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief8-7.delta" sparkle:deltaFrom="7" length="30328" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g3wn6NDcsjDAMc1lfEoLv8PUyPrx32YFcucpGtb3s5M1HBZj7pULtnGf1nP7gdYTgZZTIU7tBf/JD6VdbNEnAw=="/>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief8-6.delta" sparkle:deltaFrom="6" length="1158054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mvh9+4My07LtuVDyBFnPhMi68+qs+HbOex/mQaMLOHkMUUm1Ks6kxJKNwyDLvZb+zr7dIbrgSPUPQkzQ+oi0CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.4</title>
             <pubDate>Tue, 04 Aug 2026 17:29:05 +0900</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -42,6 +60,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 44+WMY3Ldu9D0WfY0iCKvmCt44gcy6szEMfzU0t66o8dX2Q7wncEfMejQ7jjmUsbfTj5XSmieXAILIcqdN18Bg==
-length: 3288
+edSignature: GEOAJTFDLMwA/o2vm9cx7VuhdSnoM1v8fQsnDJTNDg/fDKc9nf32VqMsmPGZpGIZ6XDVY0AtibFRDV98PyDcBA==
+length: 5210
 -->
