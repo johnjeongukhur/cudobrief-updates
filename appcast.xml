@@ -6,6 +6,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Cudobrief</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Thu, 10 Sep 2026 17:15:16 +0900</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Cudobrief 0.3.0
+
+- HRMS 일괄 등록과 빠른 편집, 프로젝트 연결 추천을 추가했습니다.
+- Claude 요약 작성과 Codex·Claude Code 작업 기록 연동을 지원합니다.
+- 요약 말투 선택, 작업 로그의 앱 아이콘·확인된 작업 폴더 표시를 추가했습니다.
+- 화면 반응 속도와 입력 기록 안정성을 개선하고, 프로젝트 분류·화면 깜빡임·편집 오류를 수정했습니다.
+- Apple Silicon과 Intel Mac을 모두 지원합니다.
+]]></description>
+            <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief-0.3.0-11.dmg" length="72231587" type="application/octet-stream" sparkle:edSignature="XovgprImyYI1SeBFv8g1tGwL0Mb2FUlL7rkZttIRCJwuFxK5ec4YedoKtODQ5ujbqgAseJrlHB/CmA9tYpEaDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief11-8.delta" sparkle:deltaFrom="8" length="52620377" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MG+52rJH30ssOGLRAn8fWMCcaHIWJRSA8tLWIhVEn01tlrbmf9vf+DqxwRfPypWqp2r5uw/cXSZnsJ8KOKF/DQ=="/>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief11-7.delta" sparkle:deltaFrom="7" length="52620452" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KqRznzBiZFIRb3yghOwuvEDAPf6UGL9TwBKDQCBuocOMGQabzHngF5m8/O/NuKCOtdBuwCikXvJlModMnSyqDQ=="/>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief11-6.delta" sparkle:deltaFrom="6" length="52752577" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="InFcn4Bt79jtnivyylA/ji/5DzFoIHiIXMTGonQpn9ZcfkGnanbhXP2kBTm1vnxtBLHhMQYu8/wsDt9FwFxEBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.5</title>
             <pubDate>Tue, 04 Aug 2026 17:51:50 +0900</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -60,6 +81,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: GEOAJTFDLMwA/o2vm9cx7VuhdSnoM1v8fQsnDJTNDg/fDKc9nf32VqMsmPGZpGIZ6XDVY0AtibFRDV98PyDcBA==
-length: 5210
+edSignature: rgySmCkGnzK2xVHKazny7MwBFwQ6He6vfhHzfh8Am2crtPEt6f+UiGYRxZAZBbd+IbgAhTkiP7FWcC8WmFKQCA==
+length: 7730
 -->
