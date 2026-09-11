@@ -6,6 +6,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Cudobrief</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Fri, 11 Sep 2026 13:57:26 +0900</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Cudobrief 0.3.1
+
+- 연차·오전/오후 반차·패밀리데이를 업무 현황에 추가하고 HRMS에 함께 등록할 수 있습니다.
+- 등록한 날짜도 다시 열어 확인하고, 필요한 항목만 선택해서 재등록할 수 있습니다.
+- AI 요약에서 특정 프로젝트를 제외하거나 선택한 프로젝트만 포함하고, 사용할 자료를 미리 확인할 수 있습니다.
+- 설정에서 프로젝트 이름이나 연필을 눌러도 수정되지 않던 문제를 고쳤습니다.
+- 고급 설정을 열 때 키체인 접근·암호 입력 팝업이 반복되던 문제를 고쳤습니다.
+]]></description>
+            <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief-0.3.1-12.dmg" length="72963098" type="application/octet-stream" sparkle:edSignature="5wH1TjNV/HLZZAUUjUF6mymZa77O/WBTiEBXqMjyrZYW/ZTRgx3HMno4mrcWBabrOm80OwQ7iYTfoEVByRzOCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief12-11.delta" sparkle:deltaFrom="11" length="5284834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tAXxdWT+JXXBzcDvj63srmpL45MpT1fXFLHldJvqp/sf5NGfkvHK5/Tr79cl54dWspHP5P1YjLgMLnkpM3WCDA=="/>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief12-8.delta" sparkle:deltaFrom="8" length="53572094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PCIjvyNLpFtZ/tQEscnYpJjHzxZxNeWWZxb07VCIogKBUbg7OT+M1v0wy9bz+GdpViZNGsx4bwiNScVToYbrAg=="/>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief12-7.delta" sparkle:deltaFrom="7" length="53573924" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lTetJ3CMLhIgYNT/BkxXDmImDO1QXlDFTWx5JpVOrzJ7npq5mvrpTTJ4PvMwmM7yP0QllPpJW2pUox9gVWn6BA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Thu, 10 Sep 2026 17:15:16 +0900</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -81,6 +102,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: rgySmCkGnzK2xVHKazny7MwBFwQ6He6vfhHzfh8Am2crtPEt6f+UiGYRxZAZBbd+IbgAhTkiP7FWcC8WmFKQCA==
-length: 7730
+edSignature: LMq8z+bC8eLJEFvIzlcPTFrSQVdzMclb2VgB8QNOTK2EF4zZmFBtAAIQxYpiRvUTTLXitok8oBvvXo4RPGcPDg==
+length: 10374
 -->
