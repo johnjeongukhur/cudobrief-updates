@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Cudobrief</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Fri, 11 Sep 2026 14:54:11 +0900</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Cudobrief 0.3.2
+
+- HRMS 프로젝트 선택에서 연차·공식 조기퇴근 항목이 나오지 않던 문제를 고쳤습니다.
+- 기존 내 프로젝트 목록은 유지하고, 휴가 등록에 필요한 공용 항목만 추가로 표시합니다.
+]]></description>
+            <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief-0.3.2-13.dmg" length="72973536" type="application/octet-stream" sparkle:edSignature="AflCriHATpmMaN8f/Fp82F9ey6+hOYiILc2A3HR3Ywiq+M0P5+Ld1va2+ZY2mdgl0wkgHif+oFMMlBu59SctDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief13-12.delta" sparkle:deltaFrom="12" length="2045356" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gWP0PlQVXgrRN8ynZ+3MPZSvVW7jJpozJfskDV8yh/byD4BhrXV/I7ES+KAphrooWZd1WQr6DouA4H8F2NptBA=="/>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief13-11.delta" sparkle:deltaFrom="11" length="5280943" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2hCPTqWiHFvSiERWPSbOar3+4qlqZLtgLi9vnHthXB3vjZIMi4N62um4VjwEqRvDMvV5DDSeAOTssX8Ae6MkCw=="/>
+                <enclosure url="https://github.com/johnjeongukhur/cudobrief-updates/releases/download/updates/Cudobrief13-8.delta" sparkle:deltaFrom="8" length="53578091" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UDEr0vpEDg4wkEXMeJ6P4P4nfmuIRRm9Ngs1QzZiUcBHMlNPE39AH1l9aqAYs411mbpJkpp5/y6ZT2GaJiQ5AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Fri, 11 Sep 2026 13:57:26 +0900</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -102,6 +120,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: LMq8z+bC8eLJEFvIzlcPTFrSQVdzMclb2VgB8QNOTK2EF4zZmFBtAAIQxYpiRvUTTLXitok8oBvvXo4RPGcPDg==
-length: 10374
+edSignature: dordYuS4bVZHrYp97FXnXrXfX9Pc1Jv7ED9I9b4JsbJwPkCUt/3gXQYOKYQOe7fWa411gubWPBwhnlQd3esFCA==
+length: 12648
 -->
